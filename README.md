@@ -1,35 +1,13 @@
-# au_rucher
+# Au Rucher
 
-This template should help get you started developing with Vue 3 in Vite.
+Site vitrine sur l'apiculture développé en Vue.js
 
-## Recommended IDE Setup
+## Objectifs
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Réaliser un site vitrine à partir de maquettes faites sur Figma en Vue.js
+- Utilisation de composants
+- Utilisation de Vue Router pour la navigation entre les pages
 
-## Customize configuration
+## Visuels
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Work in progress
