@@ -1,2 +1,10 @@
 # Au_Rucher
 Site vitrine sur l'apiculture développé en Vue.js
+
+## Objectifs
+- Réaliser un site vitrine à partir de maquettes faites sur Figma en Vue.js
+- Utilisation de composants
+- Utilisation de Vue Router pour la navigation entre les pages
+
+## Visuels
+Work in progress
